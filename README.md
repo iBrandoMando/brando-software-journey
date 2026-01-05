@@ -8,7 +8,9 @@ I’m working toward becoming a software engineer. I’m still learning what the
 - Develop the skills to land a remote-friendly software engineering role
 
 ## Progress Log
+- Week 0: Setup + first GitHub commits
 - Week 0: First JavaScript file (`index.js`) – console output test
+
 index.js
 console.log("Brando is building the future.");
 Week 0: first JavaScript file
